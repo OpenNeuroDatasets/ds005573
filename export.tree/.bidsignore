@@ -1,0 +1,4 @@
+# ignore 4dfp files
+*.ifh
+*.img
+*.hdr
